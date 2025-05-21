@@ -1,0 +1,7 @@
+# Elvenrage
+# Elvenrage is an online fantasy elf game portal where players can enjoy a variety of free elf-themed adventure, strategy, and action games, explore magical worlds, and connect with a global community.
+
+Elvenrage focuses on providing an immersive fantasy experience with a dark theme, retro pixel style, and multi-language support. The platform is designed for fans of elves, fantasy, and adventure games, offering rich content modules, responsive design, and continuous updates.
+
+## 核心内容
+[首页](https://新域名/): The homepage features the main Elvenrage game, game screenshots, features, how to play, pro tips, player reviews, platform advantages, latest updates, and a FAQ section. Users can also discover and play more recommended mini-games from the sidebar.
